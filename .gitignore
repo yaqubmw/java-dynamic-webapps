@@ -1,0 +1,30 @@
+# Build artifacts
+target/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled Java classes
+*.class
+
+# Maven-specific files
+mvnw
+mvnw.cmd
+.mvn/
+
+# Tomcat-specific files
+*.war
+*.jar
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.swp
+*~
+
+.vscode/
